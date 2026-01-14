@@ -197,7 +197,6 @@ Frontend runs at:
 * Clean UI/UX with reusable components
 * Production-ready deployment with CORS & environment handling
 
----
 
 ## 👩‍💻 Author
 
